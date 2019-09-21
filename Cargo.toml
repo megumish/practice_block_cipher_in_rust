@@ -1,5 +1,5 @@
 [package]
-name = "research_block_cipher"
+name = "practice_block_cipher_in_rust"
 version = "0.1.0"
 authors = ["megumish <keishi.kawada@handii.co.jp>"]
 edition = "2018"

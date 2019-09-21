@@ -1,5 +1,5 @@
-use blowfish::block_cipher_trait::generic_array::typenum::{U1, U8};
-use blowfish::block_cipher_trait::generic_array::{ArrayLength, GenericArray};
+use blowfish::block_cipher_trait::generic_array::typenum::U8;
+use blowfish::block_cipher_trait::generic_array::GenericArray;
 use blowfish::block_cipher_trait::BlockCipher;
 
 fn main() -> Result<(), failure::Error> {
